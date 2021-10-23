@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    background-image: linear-gradient(#101010, #101010);
+}
+
+
+
+.container__perfil{
+    color: whitesmoke;
+    margin-top: 110px;
+    margin-left: 700px;
+    font-family: 'Cabin', sans-serif;   
+}
+
+.imag{
+    height: 150px;
+    margin-left: -180px;
+    margin-top: -110px;
+}
+
+.imag{
+    border-radius: 5px;
+}
+
+.container__perfil i{
+    color: #3AA35C;
+}
+
+.container__perfil h3{
+    color: #D2D6DC;
+    font-family: 'Cabin', sans-serif; 
+}
+
+.container__perfil h2{
+    color: #D2D6DC;
+    margin-top: -83px;
+    margin-left: 20px;
+}
+
+
+.container__redes{
+    text-align: center;
+    border-radius: 10px;
+    margin: 579px;
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 515px;
+    font-family: 'Cabin', sans-serif; 
+}
+
+.discord {
+    border-radius: 20px;
+    line-height: 70px;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: -500px;
+    margin-left: -550px;
+}
+
+.discord h1{
+    font-family: 'Cabin', sans-serif; 
+    margin-left: 250px;
+    margin-top: -80px;
+    font-size: 2.5rem;
+}
+
+.discord a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.discord i{
+    line-height: 80px;
+    font-size: 60px;
+    margin-top: 3px;
+}
+
+.instagram {
+    color: whitesmoke;
+    text-align: center;
+    margin-top: -100px;
+    margin-left: 400px;
+}
+
+.instagram i{
+    font-size: 60px;
+    margin-left: -250px;
+    margin-top: 20px;
+}
+
+.instagram h1{
+    font-family: 'Cabin', sans-serif; 
+    margin-top: -55px;
+    font-size: 36px;
+}
+
+.instagram a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.youtube {
+    color: whitesmoke;
+    margin-top: 90px;
+    margin-left: 550px;
+}
+
+.youtube i{
+    font-size: 65px;
+}
+
+.youtube h1{
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+    margin-left: 90px;
+    margin-top: -58px;
+}
+
+.youtube a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+.web {
+    color: whitesmoke;
+    margin-top: -83px;
+    margin-left: 913px;
+}
+
+.web i{
+    font-size: 58px;
+}
+
+.web h1{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 90px;
+    margin-top: -50px;
+}
+
+.web a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.twitter{
+    color: whitesmoke;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+.twitter i{
+    font-size: 58px;
+}
+
+.twitter h1{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 105px;
+    margin-top: -50px;
+    font-size: 36px;
+}
+
+.twitter a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.roblox{
+    color: whitesmoke;
+    margin-left: 920px;
+    margin-top: -80px;
+}
+
+.roblox img{
+    height: 60px;
+}
+
+.roblox h1{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 100px;
+    margin-top: -50px;
+    font-size: 36px;
+}
+
+.roblox a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.location{
+    color: whitesmoke;
+    margin-top: -500px;
+    margin-left: 500px;
+}
+
+.location h2{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 40px;
+    margin-top: -25px;
+}
+
+.location h3{
+    font-family: 'Cabin', sans-serif;
+    margin-left: -15px;
+}
+
+.location i{
+    color: #3E3E3E;
+}
+
+.gender {
+    color: whitesmoke;
+    margin-top: -90px;
+    margin-left: 800px;
+}
+
+.gender h2{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 30px;
+    margin-top: -25px;
+}
+
+.gender i{
+    color: #3E3E3E;
+    font-size: 23px;
+}
+
+.gender h3{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 40px;
+}
+
+.cumpleaños{
+    color: whitesmoke;
+    margin-top: -90px;
+    margin-left: 1100px;
+}
+
+.cumpleaños h2{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 35px;
+    margin-top: -23px;
+}
+
+.cumpleaños i{
+    color: #3E3E3E;
+    font-size: 20px;
+}
+
+.cumpleaños h3{
+    font-family: 'Cabin', sans-serif;
+}
+
+.email{
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+.email h2{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 35px;
+    margin-top: -27px;
+}
+
+.email h3{
+    font-family: 'Cabin', sans-serif;
+    margin-left: -55px;
+}
+
+.email i{
+    color: #3E3E3E;
+    font-size: 23px;
+}
+
+.ocupacion{
+    color: whitesmoke;
+    margin-top: -85px;
+    margin-left: 1000px;
+}
+
+.ocupacion h2{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 35px;
+    margin-top: -24px;
+}
+
+.ocupacion h3{
+    font-family: 'Cabin', sans-serif;
+    margin-left: 40px;
+}
+
+.ocupacion i{
+    color: #3E3E3E;
+    font-size: 18px;
+}
+
+.container__footer{
+    font-family: 'Cabin', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.box__footer{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+
+.box__copyright{
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding: 0px 40px;
+}
+
+.box__copyright p{
+    margin-top: 20px;
+    color: #7a7a7a;
+}
+
+
+/*SCROLL*/
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background: black;
+}
+
+body::-webkit-scrollbar-thumb{
+    background: #212121;
+    border-radius: 10px;
+}
