@@ -5,48 +5,108 @@ body {
 }
 
 
-
 .container__perfil{
     color: whitesmoke;
-    margin-top: 110px;
-    margin-left: 700px;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 950px;
+    height: 220px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
     font-family: 'Cabin', sans-serif;   
 }
 
-.imag{
-    height: 150px;
-    margin-left: -180px;
-    margin-top: -110px;
+.container__perfil h1{
+    margin-left: 215px;
+    margin-top: -165px;
 }
 
+.container__perfil h2{
+    margin-left: 50px;
+}
+
+.perfil h2{
+    color: whitesmoke;
+    font-family: 'Cabin', sans-serif;
+    margin-top: -137px;
+    margin-left: 620px;
+}
+
+
 .imag{
+    height: 160px;
     border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 30px;
 }
 
 .container__perfil i{
     color: #3AA35C;
+    margin-left: 215px;
 }
 
 .container__perfil h3{
     color: #D2D6DC;
     font-family: 'Cabin', sans-serif; 
+    margin-left: 215px;
+    margin-top: 50px;
 }
 
 .container__perfil h2{
     color: #D2D6DC;
     margin-top: -83px;
-    margin-left: 20px;
+    margin-left: 340px;
 }
 
-
 .container__redes{
-    text-align: center;
     border-radius: 10px;
     margin: 579px;
     color: whitesmoke;
+    margin-top: 130px;
+    margin-left: 380px;
+    font-family: 'Cabin', sans-serif;
+    width: 950px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
+}
+
+.container__redes h1{
+    margin-left: 330px;
+}
+
+.container__redes h2{
+    margin-left: 200px;
+}
+
+
+.container__follow{
+    border-radius: 10px;
+    margin: 579px;
+    color: whitesmoke;
+    margin-top: 130px;
+    margin-left: 380px;
+    width: 950px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
+    font-family: 'Cabin', sans-serif;
+}
+
+.container__follow h1{
+    margin-left: 380px;
+    margin-top: 20px;
+}
+
+.container__follow h2{
+    margin-left: 430px;
     margin-top: 50px;
-    margin-left: 515px;
-    font-family: 'Cabin', sans-serif; 
 }
 
 .discord {
@@ -55,13 +115,19 @@ body {
     color: whitesmoke;
     text-align: center;
     margin-top: -500px;
-    margin-left: -550px;
+    margin-left: 380px;
+    width: 465px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .discord h1{
     font-family: 'Cabin', sans-serif; 
-    margin-left: 250px;
-    margin-top: -80px;
+    margin-left: 10px;
+    margin-top: -90px;
     font-size: 2.5rem;
 }
 
@@ -73,25 +139,32 @@ body {
 .discord i{
     line-height: 80px;
     font-size: 60px;
-    margin-top: 3px;
+    margin-top: 40px;
+    margin-left: -290px;
 }
 
 .instagram {
     color: whitesmoke;
     text-align: center;
-    margin-top: -100px;
-    margin-left: 400px;
+    margin-top: -170px;
+    margin-left: 870px;
+    width: 465px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .instagram i{
     font-size: 60px;
-    margin-left: -250px;
-    margin-top: 20px;
+    margin-left: -280px;
+    margin-top: 50px;
 }
 
 .instagram h1{
     font-family: 'Cabin', sans-serif; 
-    margin-top: -55px;
+    margin-top: -50px;
     font-size: 36px;
 }
 
@@ -102,12 +175,23 @@ body {
 
 .youtube {
     color: whitesmoke;
-    margin-top: 90px;
-    margin-left: 550px;
+    width: 465px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
+}
+
+.youtube {
+    margin-top:  30px;
+    margin-left: 380px;
 }
 
 .youtube i{
     font-size: 65px;
+    margin-top: 50px;
+    margin-left: 60px;
 }
 
 .youtube h1{
@@ -115,7 +199,7 @@ body {
     text-decoration: none;
     font-family: 'Cabin', sans-serif;
     font-size: 40px;
-    margin-left: 90px;
+    margin-left: 170px;
     margin-top: -58px;
 }
 
@@ -127,17 +211,25 @@ body {
 
 .web {
     color: whitesmoke;
-    margin-top: -83px;
-    margin-left: 913px;
+    margin-top:  -170px;
+    margin-left: 870px;
+    width: 465px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .web i{
     font-size: 58px;
+    margin-top: 50px;
+    margin-left: 60px;
 }
 
 .web h1{
     font-family: 'Cabin', sans-serif;
-    margin-left: 90px;
+    margin-left: 150px;
     margin-top: -50px;
 }
 
@@ -148,17 +240,26 @@ body {
 
 .twitter{
     color: whitesmoke;
-    margin-left: 550px;
-    margin-top: 100px;
+    width: 465px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 380px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
+
 }
 
 .twitter i{
     font-size: 58px;
+    margin-top: 60px;
+    margin-left: 100px;
 }
 
 .twitter h1{
     font-family: 'Cabin', sans-serif;
-    margin-left: 105px;
+    margin-left: 210px;
     margin-top: -50px;
     font-size: 36px;
 }
@@ -169,18 +270,30 @@ body {
 }
 
 .roblox{
+    margin-left: 15px;
+}
+
+.roblox{
     color: whitesmoke;
-    margin-left: 920px;
-    margin-top: -80px;
+    margin-left: 870px;
+    margin-top: -172px;
+    width: 465px;
+    height: 170px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .roblox img{
     height: 60px;
+    margin-top: 50px;
+    margin-left: 60px;
 }
 
 .roblox h1{
     font-family: 'Cabin', sans-serif;
-    margin-left: 100px;
+    margin-left: 170px;
     margin-top: -50px;
     font-size: 36px;
 }
@@ -192,119 +305,160 @@ body {
 
 .location{
     color: whitesmoke;
-    margin-top: -500px;
-    margin-left: 500px;
+    margin-top: -430px;
+    margin-left: 570px;
+    width: 300px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .location h2{
     font-family: 'Cabin', sans-serif;
-    margin-left: 40px;
+    margin-left: 100px;
     margin-top: -25px;
 }
 
 .location h3{
     font-family: 'Cabin', sans-serif;
-    margin-left: -15px;
+    margin-left: 60px;
+    margin-top: -15px;
 }
 
 .location i{
-    color: #3E3E3E;
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-left: 70px;
 }
 
 .gender {
     color: whitesmoke;
-    margin-top: -90px;
-    margin-left: 800px;
+    margin-top: -70px;
+    margin-left: 900px;
+    width: 300px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .gender h2{
     font-family: 'Cabin', sans-serif;
-    margin-left: 30px;
+    margin-left: 110px;
     margin-top: -25px;
 }
 
 .gender i{
-    color: #3E3E3E;
+    color: whitesmoke;
     font-size: 23px;
+    margin-left: 85px;
+    margin-top: 5px;
 }
 
 .gender h3{
     font-family: 'Cabin', sans-serif;
-    margin-left: 40px;
+    margin-left: 130px;
+    margin-top: -10px;
 }
 
 .cumpleaños{
     color: whitesmoke;
-    margin-top: -90px;
-    margin-left: 1100px;
+    width: 320px;
+    height: 90px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .cumpleaños h2{
     font-family: 'Cabin', sans-serif;
-    margin-left: 35px;
-    margin-top: -23px;
+    margin-left: 120px;
+    margin-top: -25px;
 }
 
 .cumpleaños i{
-    color: #3E3E3E;
+    color: whitesmoke;
     font-size: 20px;
+    margin-left: 85px;
+    margin-top: 13px;
 }
 
 .cumpleaños h3{
     font-family: 'Cabin', sans-serif;
+    margin-left: 95px;
+    margin-top: -10px;
 }
 
 .email{
     color: whitesmoke;
-    margin-top: 50px;
-    margin-left: 600px;
+    margin-top: -190px;
+    margin-left: 570px;
+    width: 300px;
+    height: 90px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .email h2{
     font-family: 'Cabin', sans-serif;
-    margin-left: 35px;
+    margin-left: 130px;
     margin-top: -27px;
 }
 
 .email h3{
     font-family: 'Cabin', sans-serif;
-    margin-left: -55px;
+    margin-left: 35px;
 }
 
 .email i{
-    color: #3E3E3E;
+    color: whitesmoke;
     font-size: 23px;
+    margin-left: 100px;
+    margin-top: 10px;
 }
 
 .ocupacion{
     color: whitesmoke;
-    margin-top: -85px;
-    margin-left: 1000px;
+    margin-top: -90px;
+    margin-left: 900px;
+    width: 300px;
+    height: 90px;
+    border-radius: 20px;
+    border: 1px solid #1E1E1E;
+    background: #1E1E1E;
+    box-shadow: 0px 0px 13px #1e1e1e;
 }
 
 .ocupacion h2{
     font-family: 'Cabin', sans-serif;
-    margin-left: 35px;
+    margin-left: 120px;
     margin-top: -24px;
 }
 
 .ocupacion h3{
     font-family: 'Cabin', sans-serif;
-    margin-left: 40px;
+    margin-left: 100px;
 }
 
 .ocupacion i{
-    color: #3E3E3E;
-    font-size: 18px;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 90px;
 }
 
 .container__footer{
     font-family: 'Cabin', sans-serif;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
     max-width: 1200px;
-    margin: auto;
+    margin-left: 260px;
     padding-top: 100px;
 }
 
