@@ -2,15 +2,13 @@
 
 body {
     background-image: linear-gradient(#101010, #101010);
-height: 90%;
-   width: 90%;
 }
 
 
 .container__perfil{
     color: whitesmoke;
     margin-top: 100px;
-    margin-left: 380px;
+    margin-left: 480px;
     width: 950px;
     height: 220px;
     border-radius: 20px;
@@ -36,6 +34,11 @@ height: 90%;
     margin-left: 620px;
 }
 
+.online1{
+    margin-left: 100px;
+    margin-top: -15px;
+}
+
 
 .imag{
     height: 160px;
@@ -53,7 +56,7 @@ height: 90%;
     color: #D2D6DC;
     font-family: 'Cabin', sans-serif; 
     margin-left: 215px;
-    margin-top: 17px;
+    margin-top: 50px;
 }
 
 .container__perfil h2{
@@ -67,7 +70,7 @@ height: 90%;
     margin: 579px;
     color: whitesmoke;
     margin-top: 130px;
-    margin-left: 380px;
+    margin-left: 480px;
     font-family: 'Cabin', sans-serif;
     width: 950px;
     height: 170px;
@@ -82,7 +85,7 @@ height: 90%;
 }
 
 .container__redes h2{
-    margin-left: 239px;
+    margin-left: 200px;
 }
 
 
@@ -91,7 +94,7 @@ height: 90%;
     margin: 579px;
     color: whitesmoke;
     margin-top: 130px;
-    margin-left: 380px;
+    margin-left: 480px;
     width: 950px;
     height: 170px;
     border-radius: 20px;
@@ -102,13 +105,17 @@ height: 90%;
 }
 
 .container__follow h1{
-    margin-left: 380px;
-    margin-top: 24px;
+    margin-left: 360px;
+    margin-top: 20px;
 }
 
 .container__follow h2{
-    margin-left: 360px;
+    margin-left: 340px;
+    margin-top: 50px;
+}
 
+.redes1{
+    margin-left: 100px;
 }
 
 .discord {
@@ -305,6 +312,10 @@ height: 90%;
     color: whitesmoke;
 }
 
+.redess{
+    margin-left: 50px;
+}
+
 .location{
     color: whitesmoke;
     margin-top: -430px;
@@ -372,7 +383,7 @@ height: 90%;
     height: 90px;
     border-radius: 20px;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 30px;
     border: 1px solid #1E1E1E;
     background: #1E1E1E;
     box-shadow: 0px 0px 13px #1e1e1e;
@@ -460,7 +471,7 @@ height: 90%;
 .container__footer{
     font-family: 'Cabin', sans-serif;
     max-width: 1200px;
-    margin-left: 260px;
+    margin-left: 350px;
     padding-top: 100px;
 }
 
