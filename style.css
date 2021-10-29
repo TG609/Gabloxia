@@ -2,13 +2,15 @@
 
 body {
     background-image: linear-gradient(#101010, #101010);
+height: 90%;
+   width: 90%;
 }
 
 
 .container__perfil{
     color: whitesmoke;
     margin-top: 100px;
-    margin-left: 480px;
+    margin-left: 380px;
     width: 950px;
     height: 220px;
     border-radius: 20px;
@@ -34,11 +36,6 @@ body {
     margin-left: 620px;
 }
 
-.online1{
-    margin-left: 100px;
-    margin-top: -15px;
-}
-
 
 .imag{
     height: 160px;
@@ -56,7 +53,7 @@ body {
     color: #D2D6DC;
     font-family: 'Cabin', sans-serif; 
     margin-left: 215px;
-    margin-top: 50px;
+    margin-top: 17px;
 }
 
 .container__perfil h2{
@@ -70,7 +67,7 @@ body {
     margin: 579px;
     color: whitesmoke;
     margin-top: 130px;
-    margin-left: 480px;
+    margin-left: 380px;
     font-family: 'Cabin', sans-serif;
     width: 950px;
     height: 170px;
@@ -85,7 +82,7 @@ body {
 }
 
 .container__redes h2{
-    margin-left: 200px;
+    margin-left: 239px;
 }
 
 
@@ -94,7 +91,7 @@ body {
     margin: 579px;
     color: whitesmoke;
     margin-top: 130px;
-    margin-left: 480px;
+    margin-left: 380px;
     width: 950px;
     height: 170px;
     border-radius: 20px;
@@ -105,17 +102,13 @@ body {
 }
 
 .container__follow h1{
-    margin-left: 360px;
-    margin-top: 20px;
+    margin-left: 380px;
+    margin-top: 24px;
 }
 
 .container__follow h2{
-    margin-left: 340px;
-    margin-top: 50px;
-}
+    margin-left: 360px;
 
-.redes1{
-    margin-left: 100px;
 }
 
 .discord {
@@ -312,10 +305,6 @@ body {
     color: whitesmoke;
 }
 
-.redess{
-    margin-left: 50px;
-}
-
 .location{
     color: whitesmoke;
     margin-top: -430px;
@@ -383,7 +372,7 @@ body {
     height: 90px;
     border-radius: 20px;
     margin-top: 20px;
-    margin-left: 30px;
+    margin-left: 10px;
     border: 1px solid #1E1E1E;
     background: #1E1E1E;
     box-shadow: 0px 0px 13px #1e1e1e;
@@ -471,7 +460,7 @@ body {
 .container__footer{
     font-family: 'Cabin', sans-serif;
     max-width: 1200px;
-    margin-left: 350px;
+    margin-left: 260px;
     padding-top: 100px;
 }
 
